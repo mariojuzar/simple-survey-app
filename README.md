@@ -6,6 +6,8 @@ Survey application that have some questions that can be answered
 
 ### Using go build
 
+ensuring all dependencies with `go mod download`
+
 build application with script `go build main.go`
 
 run application `./main`
